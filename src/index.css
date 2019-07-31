@@ -189,6 +189,9 @@ body {
 .preview-thumb img {
   max-width: 300px;
 }
+.copyright a {
+  margin-left: 10px;
+}
 
 @media (max-width: 767px) {
   .login-form form, .register-form form {
